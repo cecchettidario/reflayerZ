@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CASTEL_GUELFO_DI_BOLOGNA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CITY_NAME": "CASTEL_GUELFO_DI_BOLOGNA", "strokeColor": "#70ACCC", "RGB": "112, 172, 204" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.672204159894436, 44.432256592668118 ], [ 11.674341690613806, 44.431788214839635 ] ] } },
+{ "type": "Feature", "properties": { "CITY_NAME": "CASTEL_GUELFO_DI_BOLOGNA", "strokeColor": "#70ACCC", "RGB": "112, 172, 204" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.671670006954432, 44.431725659225663 ], [ 11.671920374784362, 44.432314955440177 ], [ 11.672204159894436, 44.432256592668118 ] ] } }
+]
+}

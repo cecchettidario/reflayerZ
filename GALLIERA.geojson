@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "GALLIERA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CITY_NAME": "GALLIERA", "strokeColor": "#70ACCC", "RGB": "112, 172, 204" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.393543001452903, 44.750528676942857 ], [ 11.392990838541612, 44.750679709155492 ] ] } },
+{ "type": "Feature", "properties": { "CITY_NAME": "GALLIERA", "strokeColor": "#70ACCC", "RGB": "112, 172, 204" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.393103046270447, 44.750915341743251 ], [ 11.393669532673165, 44.750766680477746 ], [ 11.393543001452903, 44.750528676942857 ] ] } },
+{ "type": "Feature", "properties": { "CITY_NAME": "GALLIERA", "strokeColor": "#70ACCC", "RGB": "112, 172, 204" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.393464900023435, 44.751646832283754 ], [ 11.393103046270447, 44.750915341743251 ] ] } },
+{ "type": "Feature", "properties": { "CITY_NAME": "GALLIERA", "strokeColor": "#70ACCC", "RGB": "112, 172, 204" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.443286275878032, 44.737884054150911 ], [ 11.443143296914904, 44.737572755002503 ], [ 11.443486795147876, 44.737483639771341 ], [ 11.443093320619793, 44.736650554973707 ], [ 11.442774627122528, 44.736724830874145 ], [ 11.44251872770141, 44.736190441853111 ] ] } },
+{ "type": "Feature", "properties": { "CITY_NAME": "GALLIERA", "strokeColor": "#70ACCC", "RGB": "112, 172, 204" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.392303057413844, 44.750871484266028 ], [ 11.392990838541612, 44.750679709155492 ] ] } },
+{ "type": "Feature", "properties": { "CITY_NAME": "GALLIERA", "strokeColor": "#70ACCC", "RGB": "112, 172, 204" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.392990838541612, 44.750679709155492 ], [ 11.393103046270447, 44.750915341743251 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PIEVE_DI_CENTO",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CITY_NAME": "PIEVE_DI_CENTO", "strokeColor": "#70ACCC", "RGB": "112, 172, 204" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.305986588737223, 44.709479644272811 ], [ 11.305974963793609, 44.709365929760764 ], [ 11.305863813229792, 44.708364567661555 ] ] } }
+]
+}

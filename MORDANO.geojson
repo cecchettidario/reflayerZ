@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "MORDANO",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CITY_NAME": "MORDANO", "strokeColor": "#B3B3B3", "RGB": "179, 179, 179" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.789102501749541, 44.398880786660293 ], [ 11.790718449566313, 44.398225860687099 ] ] } },
+{ "type": "Feature", "properties": { "CITY_NAME": "MORDANO", "strokeColor": "#B3B3B3", "RGB": "179, 179, 179" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.789102501749541, 44.398880786660293 ], [ 11.788530986463121, 44.399101179394748 ] ] } },
+{ "type": "Feature", "properties": { "CITY_NAME": "MORDANO", "strokeColor": "#B3B3B3", "RGB": "179, 179, 179" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.790718449566313, 44.398225860687099 ], [ 11.791857566943257, 44.397743766363746 ] ] } }
+]
+}

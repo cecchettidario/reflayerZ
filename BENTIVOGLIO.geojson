@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BENTIVOGLIO",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CITY_NAME": "BENTIVOGLIO", "strokeColor": "#70ACCC", "RGB": "112, 172, 204" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.421628313446055, 44.604910726687734 ], [ 11.421973742378727, 44.605439479850681 ], [ 11.422111541598097, 44.605538226609553 ], [ 11.422316403382251, 44.605570308531277 ], [ 11.4226178115739, 44.605475106390159 ] ] } },
+{ "type": "Feature", "properties": { "CITY_NAME": "BENTIVOGLIO", "strokeColor": "#70ACCC", "RGB": "112, 172, 204" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.37904627705772, 44.602756691726114 ], [ 11.379086348374056, 44.602848593366403 ] ] } },
+{ "type": "Feature", "properties": { "CITY_NAME": "BENTIVOGLIO", "strokeColor": "#70ACCC", "RGB": "112, 172, 204" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.408654535394938, 44.638018209695382 ], [ 11.40915334547007, 44.637887991437985 ], [ 11.410647830237602, 44.63749540753156 ] ] } },
+{ "type": "Feature", "properties": { "CITY_NAME": "BENTIVOGLIO", "strokeColor": "#70ACCC", "RGB": "112, 172, 204" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.379086348374056, 44.602848593366403 ], [ 11.379202574498279, 44.603115093499952 ], [ 11.379337584131346, 44.603283271655393 ] ] } },
+{ "type": "Feature", "properties": { "CITY_NAME": "BENTIVOGLIO", "strokeColor": "#70ACCC", "RGB": "112, 172, 204" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.378891473960655, 44.602369999919745 ], [ 11.37904627705772, 44.602756691726114 ] ] } }
+]
+}
